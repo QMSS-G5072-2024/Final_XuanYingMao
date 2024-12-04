@@ -10,7 +10,7 @@ build:
 sphinx:
   configuration: Final_XuanYingMao/xuan_ying_final/docs/conf.py
 
-python:
-  install:
-    - method: pip
-      path: xuan_ying_final
+# python:
+#   install:
+#     - method: pip
+#       path: xuan_ying_final
