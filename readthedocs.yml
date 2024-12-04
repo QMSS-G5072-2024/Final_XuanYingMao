@@ -13,4 +13,4 @@ sphinx:
 python:
   install:
     - method: pip
-      path: ./Final_XuanYingMao/xuan_ying_final/
+      path: ./xuan_ying_final/
