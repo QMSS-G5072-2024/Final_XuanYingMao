@@ -8,7 +8,7 @@ build:
     python: "3.11"
 
 sphinx:
-  configuration: xuan_ying_final/docs/conf.py
+  configuration: ./Xuanying_Mao_Final/xuan_ying_final/docs/conf.py
 
 python:
   install:
